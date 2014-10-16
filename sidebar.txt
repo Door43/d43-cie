@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cie:home|Door43 (cie)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cie|d43-cie repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cie/archive/master.zip|d43-cie.zip]]
+
+**Recent Changes**
+{{changes>ns = cie}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cie|Ethnologue data]]
+
